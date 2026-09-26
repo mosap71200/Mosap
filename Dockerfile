@@ -13,4 +13,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY bot.py .
 
 # Railway سيقوم بتمرير المتغيرات البيئية تلقائياً
-CMD ["python", "bot.py"]https://github.com/mosap71200/Mosapp/blob/main/Dockerfile
+CMD python bot.py 
