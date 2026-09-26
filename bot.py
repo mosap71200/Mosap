@@ -4,7 +4,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # بياناتك التي أرسلتها
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8822657967:AAEge7b0zqC_gNgYzoFXzxCvIiAF7Qo6-xk')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8822657967:AAHv8zK4oIo6t3ffsFrrs_cdeMBdk8UTm-w')
 ADMIN_ID = 8419807374 
 
 # جلب منفذ ريلوي أو استخدام 8080 افتراضياً
