@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 # الإعدادات الأساسية
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8822657967:AAEgjqw-WfqH9cF4PHHJvWnYkiQL14OLYlE')
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '9238906669:AAEH476jZEQ8lQPIpHlCwol4X6NHkHqThio')
 ADMIN_ID = 8419807374
 PORT = int(os.environ.get('PORT', 8080))
 
